@@ -90,8 +90,8 @@ const MainContent: React.FC = () => {
 const Footer: React.FC = () => (
   <footer className="bg-slate-900 mt-12 border-t border-slate-700">
     <div className="container mx-auto p-6 text-center text-slate-400 text-sm">
-      <p>&copy; {new Date().getFullYear()} Tech Insights. Mọi quyền được bảo lưu.</p>
-      <p className="mt-2">Một sản phẩm được thiết kế với sự hỗ trợ của Trợ lý AI.</p>
+      <p>&copy; {new Date().getFullYear()}   Phát triển bởi Họ và tên: Phạm Minh Hiếu - PH50358 . Đợt đào tạo thực tế Hợp tác giữa FPT Polytechnic và IMTA TECH</p>
+      <p className="mt-2">Cán bộ Hướng dẫn: Trần Tuấn Thành..</p>
     </div>
   </footer>
 );
